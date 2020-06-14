@@ -1,2 +1,2 @@
 # Machine-Learning
-Repositório de estudo de machine learning
+Repositório para estudo de machine learning
